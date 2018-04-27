@@ -1,0 +1,3 @@
+Makeing a Drum Kit in Vanilla JS (part 1 of the JavaScript30)
+
+http://htmlpreview.github.io/?https://github.com/zippyX2/....
