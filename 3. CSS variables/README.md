@@ -1,3 +1,3 @@
-Makeing a Drum Kit in Vanilla JS (part 1 of the JavaScript30)
+Learning all about how to use CSS variables and update them with JavaScript (part 3 of the JavaScript30)
 
-http://htmlpreview.github.io/?file:///home/mircea/JavaScript/JavaScript30/3.%20CSS%20variables/index.html
+http://htmlpreview.github.io/?https://github.com/zippyX2/JavaScript30/blob/master/3.%20CSS%20variables/index.html
