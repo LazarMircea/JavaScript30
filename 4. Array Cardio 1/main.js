@@ -69,20 +69,19 @@ console.table(oldest);
 // Sort the people alphabetically by last name
 
 
-// SORTED BY FIRST NAME
-const sortedNames = people.sort(function(a, b) {
+const sortedByFirstNames = people.sort(function(a, b) {
     const lastNameNow = a.match(/\s\w+/);
     const lastNameNext = b.match(/\s\w+/);
     return lastNameNow > lastNameNext ? 1 : -1;
 })
-console.log(sortedNames)
+console.log(sortedByFirstNames)
 
-const sortedNames2 = people.sort(function(a, b) {
+const sortedNames = people.sort(function(a, b) {
     const lastNameNow = a.match(/\w+/);
     const lastNameNext = b.match(/\w+/);
     return lastNameNow > lastNameNext ? 1 : -1;
 })
-console.log(sortedNames2)
+console.log(sortedNames)
 
 // 8. Reduce Exercise
 // Sum up the instances of each of these
